@@ -1,5 +1,7 @@
 ## **Intro**
 
+READ THE REPORT [HERE](end_to_end.ipynb)
+
 The starting points for this notebook that you should look at are this `README.md`, the `end_to_end.ipynb` file where we detail everything, and `train.py`. We DO NOT expect you to train the model yourself. Instead we explain how we perform the training with `train.py` and simply refer to the saved model weights in the notebook. You can additionally run a demo (see the disclaimer about the origin of the code in `demo.py` at the bottom of `README.md`) with `python demo.py`.
 
 ## **Setup Instructions**
